@@ -1,2 +1,30 @@
 # Dreamscape-mc-server
-RULES for my Minecraft server~这些是适用于Minecraft java版 Dreamscape服务器的所有规则
+RULES AND NOTES for my Minecraft server~这些是适用于Minecraft java版 Dreamscape服务器的所有规则与说明
+
+# Dreamscape Server 服务器官方文档
+欢迎查看 Dreamscape 服务器全套官方规则与配置文档。
+本仓库收录服务器所有公开规则、处罚标准、交易规范与功能说明。
+
+## 服务器信息
+- 官方网站：dreamscape.cc.cd
+- 服务器类型：开放式SMP、全域PVP、自由经济系统
+- 运营模式：玩家自由交易、自由对战、官网积分特权增值
+
+## 文档目录
+- 通用服务器规则
+- PVP对战规则
+- 玩家交易规则
+- 官网商城购买规则
+- 普通玩家处罚标准
+- 管理组处罚标准
+- 常见问题FAQ
+- 服务器更新日志
+- 模组/资源包使用
+
+## 温馨提示
+进入服务器即代表你已阅读、理解并同意遵守本仓库全部规则文档。
+所有违规判定、交易纠纷、处罚标准均以本仓库最新版本内容为唯一依据。
+
+## 开源协议
+本服务器所有文档开源公开，仅供 Dreamscape 服务器内部使用，禁止盗用、篡改、二次售卖。
+
