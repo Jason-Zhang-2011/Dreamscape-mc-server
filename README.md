@@ -31,7 +31,7 @@ RULES AND NOTES for my Minecraft server~这些是适用于Minecraft java版 Drea
 
 ## 重要说明
 Dreamscape‑SMP 是高对抗的开放式生存服务器，全域永久开启 PVP，竞争氛围十分激烈。这里没有强制保护机制，偷袭、团战、资源争夺随处可见。
-玩家可以依靠 `/ah`、`/orders`、`/pay`开展物资交易；在官网 `dreamscape.cc.cd`购买 Shards 碎片、更多 Home 家园点位等特权；大家可以抱团组队博弈，也可以独自生存发育。
+玩家可以依靠 `/ah`、`/orders`、`/pay`等指令开展物资交易；在官网 `dreamscape.cc.cd`购买 Shards 碎片、更多 Home 家园点位等特权；大家可以抱团组队博弈，也可以独自生存发育。
 
 服务器严格抵制作弊、交易诈骗、刷取碎片等不良行为，一旦违反就会依照处罚条例进行处理。这里考验你的战术规划、PVP 实力还有资源运营能力，适用于喜欢紧张刺激生存玩法的玩家。
 
