@@ -1,1 +1,2 @@
+Dremascape服务器规则 此PvP规则适用于此服务器
 
