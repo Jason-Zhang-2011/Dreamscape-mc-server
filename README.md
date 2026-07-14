@@ -1,5 +1,6 @@
 # Dreamscape-mc-server
 RULES AND NOTES for my Minecraft server~这些是适用于Minecraft java版 Dreamscape服务器的所有规则与说明
+所有的规则、说明、提醒、用法等全在文件中中,请自行查看.
 
 # Dreamscape Server 服务器官方文档
 欢迎查看 Dreamscape 服务器全套官方规则与配置文档。
